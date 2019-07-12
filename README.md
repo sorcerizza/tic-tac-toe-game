@@ -1,15 +1,34 @@
-#Tic Tac Toe
+TICTACTOE
+======
 
-A basic Tic Tac Toe game built using HTML/JavaScript/CSS. 
-
-View The Demo
-
-...How to get started
-
-To make a move, the player will use the mouse single click to mark a space. In this version, there is no provision to undo the move. As soon as the move is done, the game proceeds to the next player’s chance.
-At each move, The game will show whose move (Player X or Player O) it is. When the game ends, it displays one of the following three outcomes:
+HTML
+CSS
+JAVASCRIPT
 
 
-Winner: Player A
-Winner: Player B
-Draw
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+
+0.1.0 Finalized the example
+
+## Tests
+
+Basic non-automated manual browser test aka no test :P
+
+## Contributors
+
+Standing on the shoulders of all the giants before me.
+
+## Contact
+#### sorcererizza
+* E-mail: izzaannsamax@gmail.com
+
+
